@@ -1,0 +1,16 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    margin: 1.9cm;
+    font-size: 80;
+    height: 3mm;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    margin: 2cm;
+    font-size: 20;
+    font-family: Arial, Helvetica, sans-serif;
+}
